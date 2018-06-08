@@ -12,11 +12,6 @@ Project developped during one week with the pourpose of trying to make people th
 * [Chart.JS Library](https://www.chartjs.org/) 
 
 
-## Versioning
-
-[Git](http://github.com/)
-
-
 ## Authors
 
 * **Amanda Cossu** [amcossu](https://github.com/amcossu)
