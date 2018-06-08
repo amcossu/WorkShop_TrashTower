@@ -23,4 +23,4 @@ Project developped during one week with the pourpose of trying to make people th
 
 * **Thibault Rousset** [thibault rousset](https://github.com/thibaultrousset)
 
-* **Marine Cristol** [Marine CRISTOL](https://github.com/marineCRISTOL)
+* **Marine Cristol** 
